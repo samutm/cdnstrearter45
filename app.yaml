@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: cdnstrearter45
+owner: muhammetgrbz
+package: .
